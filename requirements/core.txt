@@ -1,0 +1,12 @@
+# basics
+python-dotenv==1.0.1
+pydantic>=2.9.2
+
+# ML
+torch==2.4.1
+torchaudio==2.4.1
+torchvision==0.19.1
+wandb>=0.18.5
+
+# tooling
+ipython>=8.29.0
